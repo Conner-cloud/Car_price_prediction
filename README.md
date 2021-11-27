@@ -1,3 +1,5 @@
+# Car Price prediction using Multiple Linear Regression in R
+
 ### Visualising and Cleaning the Data
 After cleaning the data so that all car models were listed under the name of the brand (e.g. Volkwagen Golf 2007 -> VW) I plotted the distribution of car models. The bar chart shows cleanly which car brand has the most number of models (Toyota) and which has the least (Mercury). We can see that most car brands have around 10 models but this plot is not a good visualisation of averages.
 
