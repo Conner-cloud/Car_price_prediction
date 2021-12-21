@@ -58,6 +58,8 @@ Finally, I looked at the AIC values for both the original and backward model. Th
 
  
 <img src="Images/Residual_plots_backward.jpeg" width="600"  >
+
+
 As you can see it's almost identical to the original model's residuals except that the outlier is now gone which is great.
 
  
